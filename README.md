@@ -13,11 +13,13 @@ Voici les différents comportements que gère ce printf :
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
 
-#### Systeme d'exploitation
+**Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
+
+#### Système d'exploitation
 
 ```
 GNU/Linux, Mac OS X ou macOS Sierra
@@ -65,7 +67,7 @@ make re
 
 ## Faire des tests
 
-Aucun test n'est fournis avec ce projet. Toutefois vous pouvez crée un binaire avec vos propres fichiers sources et la 
+Aucun test n'est fourni avec ce projet. Toutefois vous pouvez crée un binaire avec vos propres fichiers sources et la 
 librairie précédemment créer.
 
 ### Compilation avec le fichier libftprintf.a
