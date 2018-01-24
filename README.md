@@ -4,7 +4,7 @@ Premier projet de la branche Algorithmie de l'école 42. Recoder la fonction pri
 
 Voici les différents comportements que gère ce printf :
 
-* Conversion : sSpdDioOuUxXcC
+* Conversion: sSpdDioOuUxXcC
 * %%
 * Flags: #0-+ et espace
 * Taille minimum du champ
@@ -67,12 +67,12 @@ make re
 
 ## Faire des tests
 
-Aucun test n'est fourni avec ce projet. Toutefois vous pouvez crée un binaire avec vos propres fichiers sources et la 
-librairie précédemment créer.
+Aucun test n'est fourni avec ce projet. Toutefois vous pouvez créé un binaire avec vos propres fichiers sources et la 
+librairie précédemment créé.
 
 ### Compilation avec le fichier libftprintf.a
 
-Amenager vos fichiers sources et headers dans un dossier unique de tel sorte à ce que la commande suivante fonctionne
+Aménager vos fichiers sources et headers dans un dossier unique de tel sorte à ce que la commande suivante fonctionne
 
 ```
 gcc -Wall -Werror -Wextra -I [PATH du dossier cloné/includes] -L [PATH du dossier cloné] -lftprintf *.c -o [nom de votre binaire]
