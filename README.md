@@ -1,6 +1,6 @@
 # ft_printf
 
-Premier projet de la branche Algorithmie de l'école 42. Recoder la fonction ft_printf de la bibliothèque stadard du C.
+Premier projet de la branche Algorithmie de l'école 42. Recoder la fonction printf de la bibliothèque stadard du C.
 
 Voici les différents comportements que gère ce printf :
 
