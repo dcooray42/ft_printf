@@ -78,6 +78,9 @@ Aménager vos fichiers sources et headers dans un dossier unique de tel sorte à
 gcc -Wall -Werror -Wextra -I [PATH du dossier cloné/includes] -L [PATH du dossier cloné] -lftprintf *.c -o [nom de votre binaire]
 ```
 
+## Note
+98/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
