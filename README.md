@@ -30,7 +30,7 @@ GNU/Linux, Mac OS X ou macOS Sierra
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
-git clone https://github.com/konamifox/ft_printf.git [nom du PATH/dossier]
+git clone https://github.com/dcooray42/ft_printf.git [nom du PATH/dossier]
 ```
 
 ### Installation
